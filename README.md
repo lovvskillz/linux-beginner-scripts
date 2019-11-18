@@ -8,12 +8,12 @@ This repo containes several scripts to easily setup some basic services on your 
 
 If you have git installed, use 
 
-    git clone https://github.com/MinehubDE/linux-beginner-scripts.git
+    git clone https://github.com/lovvskillz/linux-beginner-scripts.git
 
 otherwise download the zip package with 
 
     apt-get install wget unzip
-    wget https://github.com/MinehubDE/linux-beginner-scripts/archive/master.zip && unzip master.zip && rm master.zip
+    wget https://github.com/lovvskillz/linux-beginner-scripts/archive/master.zip && unzip master.zip && rm master.zip
 
 Go into the folder and execute the script of your choice, e.g.
 
